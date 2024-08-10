@@ -1,0 +1,2 @@
+# SpreadSheet_to_PowerPoint
+Googleスプレッドシートに記載されたデータを元に、PowerPointのスライドを作成する。
